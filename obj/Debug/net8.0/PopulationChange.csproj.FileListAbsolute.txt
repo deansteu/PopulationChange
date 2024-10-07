@@ -1,0 +1,14 @@
+/home/ds6124/projects/personal/PopulationChange/bin/Debug/net8.0/PopulationChange
+/home/ds6124/projects/personal/PopulationChange/bin/Debug/net8.0/PopulationChange.deps.json
+/home/ds6124/projects/personal/PopulationChange/bin/Debug/net8.0/PopulationChange.runtimeconfig.json
+/home/ds6124/projects/personal/PopulationChange/bin/Debug/net8.0/PopulationChange.dll
+/home/ds6124/projects/personal/PopulationChange/bin/Debug/net8.0/PopulationChange.pdb
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/PopulationChange.GeneratedMSBuildEditorConfig.editorconfig
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/PopulationChange.AssemblyInfoInputs.cache
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/PopulationChange.AssemblyInfo.cs
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/PopulationChange.csproj.CoreCompileInputs.cache
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/PopulationChange.dll
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/refint/PopulationChange.dll
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/PopulationChange.pdb
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/PopulationChange.genruntimeconfig.cache
+/home/ds6124/projects/personal/PopulationChange/obj/Debug/net8.0/ref/PopulationChange.dll
